@@ -1,0 +1,16 @@
+[
+{
+  "modid": "electricalworld",
+  "name": "Electrical World",
+  "description": "Real life energy brought into minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["WildWolf31373"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

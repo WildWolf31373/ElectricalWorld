@@ -1,0 +1,11 @@
+#Files that will overflow the upload
+
+/.idea/
+/run/
+/eclipse/
+/build/
+/out/
+/gradle/
+/*.iml
+/*.ipr
+/*.iws
